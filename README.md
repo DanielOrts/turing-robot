@@ -37,4 +37,5 @@ El transmisor de radiofrecuencia tiene la siguientes características:
 
 ### Agradecimientos:
 - [Victor Gómez (FabLab Mallorca)](http://fablabmallorca.com/)
+- [Carlos Orts)](https://github.com/mcorts)
 
