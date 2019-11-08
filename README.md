@@ -17,7 +17,7 @@ Como las ruedas van a ser el primer elemento que va a recibir los golpes del ata
 
 La placa base del robot es el receptor de radiofrecuencia. Donde he conectado y soldado los cables que van a los motores y al solenoide.
 
-<img src="https://github.com/DanielOrts/turing-robot/blob/master/Turing-Robot_Sketch_bb.png" width="300" align="right" />
+<img src="https://github.com/DanielOrts/turing-robot/blob/master/Turing-Robot_Sketch_bb.png" width="500" align="right" />
 
 ### Componentes
 El transmisor de radiofrecuencia tiene la siguientes características:
